@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69809" started-at="2020-04-10T12:47:45Z" finished-at="2020-04-10T12:48:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69809" started-at="2020-04-10T12:47:45Z" finished-at="2020-04-10T12:48:55Z">
+      <class name="Test_Plivo.Scenario.Channel_Testing">
+        <test-method status="PASS" signature="testing_StackAPI()[pri:0, instance:Test_Plivo.Scenario.Channel_Testing@689604d9]" name="testing_StackAPI" duration-ms="69783" started-at="2020-04-10T18:17:45Z" finished-at="2020-04-10T18:18:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing_StackAPI -->
+      </class> <!-- Test_Plivo.Scenario.Channel_Testing -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
